@@ -1,6 +1,6 @@
 version: "Apple Swift version 5.1.2 (swiftlang-1100.0.278 clang-1100.0.33.9)"
 options: "6510a542706a43417c92d1b41bd676df"
-build_time: [1580213334, 214993000]
+build_time: [1580213771, 728797000]
 inputs:
   "/Users/user/Documents/Projects/SampleiOS/SampleiOSApp/SampleiOSApp/ViewController.swift": [9223372036, 854775807]
   "/Users/user/Documents/Projects/SampleiOS/SampleiOSApp/SampleiOSApp/AppDelegate.swift": [9223372036, 854775807]
