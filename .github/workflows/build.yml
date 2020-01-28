@@ -10,4 +10,4 @@ jobs:
     steps:
     - uses: actions/checkout@v1
     - name: Build Project
-      run: xcodebuild build -project SampleiOSApp/SampleiOSApp.xcodeproj
+      run: xcodebuild build -project SampleiOSApp/SampleiOSApp.xcodeproj -allowProvisioningUpdates
