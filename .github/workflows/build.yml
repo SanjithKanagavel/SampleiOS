@@ -10,4 +10,4 @@ jobs:
     steps:
     - uses: actions/checkout@v1
     - name: Build Project
-      run: xcodebuild build -project SampleiOSApp/SampleiOSApp.xcodeproj -allowProvisioningUpdates
+      run: xcodebuild clean build -project SampleiOSApp/SampleiOSApp.xcodeproj -allowProvisioningUpdates CODE_SIGN_IDENTITY="" CODE_SIGNING_REQUIRED=NO
